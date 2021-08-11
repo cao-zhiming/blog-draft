@@ -94,6 +94,6 @@ type是图标的种类，与解码有关，常用的是image/png等等。**不�
 
 ## Service Worker
 
-这时，PWA才真正开始。
+这时，PWA才真正开始。我建议你使用[sw-toolbox](https://github.com/cao-zhiming/ss-caozhimingtk/blob/main/js/sw-toolbox.js)，把它全部复制下来，保存为一个sw-toolbox.js，上传到网站根目录。
 
 
